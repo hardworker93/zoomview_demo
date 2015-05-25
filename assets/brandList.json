@@ -1,0 +1,64 @@
+﻿{
+
+    "brands": [
+        {
+            "brand": {
+                "id": "9",
+                "name": "SAMSUNG",
+                "description": "برند سامسونگ",
+                "publicImage": "http://gsmmag.4api.ir/assets/uploads/10292014/5656ce51727491057b2e164173f07ae545bbb227.jpg"
+            }
+        },
+        {
+            "brand": {
+                "id": "10",
+                "name": "NOKIA",
+                "description": "برند نوکیا",
+                "publicImage": "http://gsmmag.4api.ir/assets/uploads/10292014/c9775f2d1c800fdb43c68512b9beac44da1b875b.jpg"
+            }
+        },
+        {
+            "brand": {
+                "id": "11",
+                "name": "SONY",
+                "description": "برند سونی",
+                "publicImage": "http://gsmmag.4api.ir/assets/uploads/10292014/70198958cbda503f9b065103a66a939e43de64fa.jpg"
+            }
+        },
+        {
+            "brand": {
+                "id": "12",
+                "name": "LG",
+                "description": "برند ال جی",
+                "publicImage": "http://gsmmag.4api.ir/assets/uploads/10292014/a8332c2896d810e91b75bda254a679044720e4ca.jpg"
+            }
+        },
+        {
+            "brand": {
+                "id": "13",
+                "name": "htc",
+                "description": "برند اچ تی سی",
+                "publicImage": "http://gsmmag.4api.ir/assets/uploads/10292014/5e72e8e26770a153f0d17f566b1415cc587c3889.jpg"
+            }
+        },
+        {
+            "brand": {
+                "id": "14",
+                "name": "Apple",
+                "description": "برند اپل",
+                "publicImage": "http://gsmmag.4api.ir/assets/uploads/10292014/2ff105207f4196796411ec6ea1c5a93105c9d344.jpg"
+            }
+        },
+        {
+            "brand": {
+                "id": "15",
+                "name": "HUAWEI",
+                "description": "برند هوآوی",
+                "publicImage": "http://gsmmag.4api.ir/assets/uploads/10292014/2873b5f8ca9586d5526697e12630b8225efe65ce.jpg"
+            }
+        }
+    ],
+    "message": "brand list generated",
+    "status": "success"
+
+}

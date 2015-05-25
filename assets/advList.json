@@ -1,0 +1,92 @@
+﻿{
+
+    "ads": [
+        {
+            "ad": {
+                "id": "3",
+                "title": "فروش تلفنی موبایل و تبلت",
+                "publicImage": "http://gsmmag.4api.ir/assets/uploads/10292014/d01a5f9de4206005520fc71df10efafb6b1d8767.jpg",
+                "publicUrl": "http://gsmmag.4api.ir/ad/click?token=c791188415e4eb96b23810ad0ea1a3b6",
+                "adposition": {
+                    "name": "splash"
+                },
+                "ttl": "10"
+            }
+        },
+        {
+            "ad": {
+                "id": "4",
+                "title": "بنر معرفی اپلیکیشن جی اس ام",
+                "publicImage": "http://gsmmag.4api.ir/assets/uploads/10292014/96f5c77789daea04149c58bdc0780e0657016c3d.jpg",
+                "publicUrl": "http://gsmmag.4api.ir/ad/click?token=525fe9dbb9df34075ca6030ab70e989f",
+                "adposition": {
+                    "name": "allmags"
+                },
+                "ttl": "30"
+            }
+        },
+        {
+            "ad": {
+                "id": "5",
+                "title": "بنر دانلود اپلیکیشن جی اس ام از ایران اپس",
+                "publicImage": "http://gsmmag.4api.ir/assets/uploads/10292014/88aeb2c80c5c6306b6b721e189fc2b3ff8a2ca6b.jpg",
+                "publicUrl": "http://gsmmag.4api.ir/ad/click?token=bfbd95809f55a1a14e8b1e7448f43957",
+                "adposition": {
+                    "name": "mymags"
+                },
+                "ttl": "30"
+            }
+        },
+        {
+            "ad": {
+                "id": "6",
+                "title": "فروش مجلات",
+                "publicImage": "http://gsmmag.4api.ir/assets/uploads/10292014/8a93b70ea8b7c956cd8405b7e03329e30161a082.jpg",
+                "publicUrl": "http://gsmmag.4api.ir/ad/click?token=9f076f5b0aece1406f3215c887fae9d9",
+                "adposition": {
+                    "name": "counter"
+                },
+                "ttl": "30"
+            }
+        },
+        {
+            "ad": {
+                "id": "7",
+                "title": "بنر آرین",
+                "publicImage": "http://gsmmag.4api.ir/assets/uploads/10292014/21cfd572436eba85482feb6f78d5cadbd0315b3d.jpg",
+                "publicUrl": "http://gsmmag.4api.ir/ad/click?token=4eeadb87b8388c82d69ae4289b07d186",
+                "adposition": {
+                    "name": "singleissue"
+                },
+                "ttl": "30"
+            }
+        },
+        {
+            "ad": {
+                "id": "8",
+                "title": "فروش تلفنی موبایل",
+                "publicImage": "http://gsmmag.4api.ir/assets/uploads/10292014/491307cfe28871b669fa50aaf997907aeb272e1e.jpg",
+                "publicUrl": "http://gsmmag.4api.ir/ad/click?token=47da0bffbd9bfc0bae326d93acb82120",
+                "adposition": {
+                    "name": "singleissue"
+                },
+                "ttl": "30"
+            }
+        },
+        {
+            "ad": {
+                "id": "9",
+                "title": "شماره سه رقمی فروش",
+                "publicImage": "http://gsmmag.4api.ir/assets/uploads/10292014/7f68f0a317a697dc100237bd30a71bdab6989dd4.jpg",
+                "publicUrl": "http://gsmmag.4api.ir/ad/click?token=9a9b2a81233d3f589333bca89b8df6a2",
+                "adposition": {
+                    "name": "viewissue"
+                },
+                "ttl": "30"
+            }
+        }
+    ],
+    "message": "issue list generated",
+    "status": "success"
+
+}

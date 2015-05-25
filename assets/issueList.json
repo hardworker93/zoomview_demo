@@ -1,0 +1,514 @@
+﻿{
+
+    "issues": [
+        {
+            "issue": {
+                "id": "34",
+                "title": "مجلسه تستی کوچک",
+                "description": null,
+                "fee": 1000,
+                "discount": 10,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/8ff61eda5a445b074384218eaad35c83.jpg",
+                "issuecategory": {
+                    "id": "5",
+                    "title": "کالایاب دیجیتال",
+                    "description": null,
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": "http://gsmmag.4api.ir/assets/zips/preview/issue_34.zip",
+                "sku": "kalayab-mobile-test",
+                "release_time": 1415636161,
+                "file_size": 1095057
+            }
+        },
+        {
+            "issue": {
+                "id": "33",
+                "title": "کالایاب موبایل 72",
+                "description": " مشخصات گوشی ها بر اساس برند\r\n\r\n 1. SAMSUNG\r\n 2. Nokia\r\n 3. SONY\r\n 4. LG\r\n 5. htc\r\n 6. Apple\r\n 7. HUAWEI\r\n\r\n آرشیو: مشخصات گوشی\r\n\r\n مشخصات تبلت\r\n\r\n لوازم جانبی",
+                "fee": 5000,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/aad5ef022fa40360b11b4b0c20b23373.jpg",
+                "issuecategory": {
+                    "id": "8",
+                    "title": "کالایاب موبایل",
+                    "description": null,
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": "kalayab-mobile-72",
+                "release_time": 1414942681,
+                "file_size": 141803913
+            }
+        },
+        {
+            "issue": {
+                "id": "32",
+                "title": "کالایاب خودرو 25",
+                "description": "توضیحات مربوط به کالایاب خودرو 25",
+                "fee": 15000,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/ef5fddef682f62f05fba14490587cae3.jpg",
+                "issuecategory": {
+                    "id": "7",
+                    "title": "کالایاب خودرو",
+                    "description": "توضیح کلی در مورد لاین کالایاب خودرو",
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": "kalayab-mobile-70",
+                "release_time": 1414942148,
+                "file_size": 287345967
+            }
+        },
+        {
+            "issue": {
+                "id": "31",
+                "title": "کالایاب خودرو 26",
+                "description": "توضیحات کالایاب خودرو 26",
+                "fee": 0,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/b2e95e113ab8147336622b8b67b57bcd.jpg",
+                "issuecategory": {
+                    "id": "7",
+                    "title": "کالایاب خودرو",
+                    "description": "توضیح کلی در مورد لاین کالایاب خودرو",
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": "test",
+                "release_time": 1414940627,
+                "file_size": 313213955
+            }
+        },
+        {
+            "issue": {
+                "id": "30",
+                "title": "کالایاب خودرو 27",
+                "description": "توضیحات مربوط به کالایاب خودرو 27\r\n\r\n1. تست\r\n2. تست\r\n",
+                "fee": 15000,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/ed098206597a3fb11a97277b73cdc771.jpg",
+                "issuecategory": {
+                    "id": "7",
+                    "title": "کالایاب خودرو",
+                    "description": "توضیح کلی در مورد لاین کالایاب خودرو",
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": "fake_sku_should_change",
+                "release_time": 1414940620,
+                "file_size": 318316536
+            }
+        },
+        {
+            "issue": {
+                "id": "29",
+                "title": "کالایاب جامع موبایل 12",
+                "description": "توضیحات مربوط به این شماره از کالایاب موبایل\r\n\r\n1. کالایاب شماره 12\r\n2. تستی\r\n3. تست",
+                "fee": 15000,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/5ac06f06d60ede7e790ea2e4c5350c22.jpg",
+                "issuecategory": {
+                    "id": "9",
+                    "title": "کالایاب جامع موبایل",
+                    "description": "توضیحات کلی مربوط به کالایاب جامع موبایل",
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": "fake_sku_should_change",
+                "release_time": 1414940617,
+                "file_size": 249596411
+            }
+        },
+        {
+            "issue": {
+                "id": "28",
+                "title": "کالایاب جامع موبایل 11",
+                "description": "توضیحات مربوط به کالایاب جامع موبایل 11\r\n\r\n1. تست\r\n2. تست\r\n3. تست",
+                "fee": 15000,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/8f96e4731d403f6e3c6ec62bed0c7116.jpg",
+                "issuecategory": {
+                    "id": "5",
+                    "title": "کالایاب دیجیتال",
+                    "description": null,
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": "fake_sku_should_change",
+                "release_time": 1414936016,
+                "file_size": 225192233
+            }
+        },
+        {
+            "issue": {
+                "id": "27",
+                "title": "کالایاب موبایل ۷۴",
+                "description": " مشخصات گوشی ها بر اساس برند\r\n\r\n 1. SAMSUNG\r\n 2. Nokia\r\n 3. SONY\r\n 4. LG\r\n 5. htc\r\n 6. Apple\r\n 7. HUAWEI\r\n\r\n آرشیو: مشخصات گوشی\r\n\r\n مشخصات تبلت\r\n\r\n لوازم جانبی",
+                "fee": 5000,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/3242da58a117921e35bbe394fdc356d1.jpg",
+                "issuecategory": {
+                    "id": "8",
+                    "title": "کالایاب موبایل",
+                    "description": null,
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": true,
+                "publicPreview": null,
+                "sku": "fake_sku_should_change",
+                "release_time": 1414590181,
+                "file_size": 177152636
+            }
+        },
+        {
+            "issue": {
+                "id": "26",
+                "title": "کالایاب موبایل ۷۳",
+                "description": " مشخصات گوشی ها بر اساس برند\r\n\r\n 1. SAMSUNG\r\n 2. Nokia\r\n 3. SONY\r\n 4. LG\r\n 5. htc\r\n 6. Apple\r\n 7. HUAWEI\r\n\r\n آرشیو: مشخصات گوشی\r\n\r\n مشخصات تبلت\r\n\r\n لوازم جانبی",
+                "fee": 0,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/25cc98c33a2eb543ffa113740a5a7640.jpg",
+                "issuecategory": {
+                    "id": "8",
+                    "title": "کالایاب موبایل",
+                    "description": null,
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": null,
+                "release_time": 1414940920,
+                "file_size": 145574001
+            }
+        },
+        {
+            "issue": {
+                "id": "24",
+                "title": "کالایاب موبایل ۷۱",
+                "description": null,
+                "fee": 0,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/f6098ae089a9a9da49dfc12f17e76847.jpg",
+                "issuecategory": {
+                    "id": "8",
+                    "title": "کالایاب موبایل",
+                    "description": null,
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": null,
+                "release_time": 1414940917,
+                "file_size": 159627597
+            }
+        },
+        {
+            "issue": {
+                "id": "23",
+                "title": "کالایاب موبایل ۷۰",
+                "description": null,
+                "fee": 0,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/581d8657f9c9a8768f7d1173a44d62a1.jpg",
+                "issuecategory": {
+                    "id": "8",
+                    "title": "کالایاب موبایل",
+                    "description": null,
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": null,
+                "release_time": 1414940916,
+                "file_size": 164286759
+            }
+        },
+        {
+            "issue": {
+                "id": "22",
+                "title": "کالایاب موبایل ۶۹",
+                "description": null,
+                "fee": 0,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/3c8ace8927d84ef055eec75bfbaa8c0a.jpg",
+                "issuecategory": {
+                    "id": "8",
+                    "title": "کالایاب موبایل",
+                    "description": null,
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": null,
+                "release_time": 1414573445,
+                "file_size": 155550054
+            }
+        },
+        {
+            "issue": {
+                "id": "21",
+                "title": "کالایاب موبایل ۶۸",
+                "description": null,
+                "fee": 0,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/cddd2f37e91aae642a37adcd235fb3fc.jpg",
+                "issuecategory": {
+                    "id": "8",
+                    "title": "کالایاب موبایل",
+                    "description": null,
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": null,
+                "release_time": 1414573442,
+                "file_size": 155880475
+            }
+        },
+        {
+            "issue": {
+                "id": "20",
+                "title": "جیبی ۷۳",
+                "description": null,
+                "fee": 1000,
+                "discount": 10,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/f895436c6f446da97a3f259b0a853433.jpg",
+                "issuecategory": {
+                    "id": "6",
+                    "title": "جیبی",
+                    "description": "توضیحات این مجله",
+                    "publicImage": "http://gsmmag.4api.ir/assets/uploads/11112014/0813d0c2bd132b4db7138c02a38add75548e5ef1.jpg"
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": true,
+                "publicPreview": null,
+                "sku": "fake_sku_should_change",
+                "release_time": 1414573439,
+                "file_size": 283302804
+            }
+        },
+        {
+            "issue": {
+                "id": "19",
+                "title": "جیبی ۷۲",
+                "description": null,
+                "fee": 5000,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/087db26aad22e923b7c33af6c2d614f7.jpg",
+                "issuecategory": {
+                    "id": "6",
+                    "title": "جیبی",
+                    "description": "توضیحات این مجله",
+                    "publicImage": "http://gsmmag.4api.ir/assets/uploads/11112014/0813d0c2bd132b4db7138c02a38add75548e5ef1.jpg"
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": "fake_sku_should_change",
+                "release_time": 1414573449,
+                "file_size": 256054518
+            }
+        },
+        {
+            "issue": {
+                "id": "18",
+                "title": "جیبی ۷۱",
+                "description": null,
+                "fee": 5000,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/698930c7863fcd9bb1b7fed32560d407.jpg",
+                "issuecategory": {
+                    "id": "6",
+                    "title": "جیبی",
+                    "description": "توضیحات این مجله",
+                    "publicImage": "http://gsmmag.4api.ir/assets/uploads/11112014/0813d0c2bd132b4db7138c02a38add75548e5ef1.jpg"
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": "fake_sku_should_change",
+                "release_time": 1414573452,
+                "file_size": 337203948
+            }
+        },
+        {
+            "issue": {
+                "id": "17",
+                "title": "جیبی ۷۰",
+                "description": null,
+                "fee": 0,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/0eb8c67cb73991f0c969c2039ea3c192.jpg",
+                "issuecategory": {
+                    "id": "6",
+                    "title": "جیبی",
+                    "description": "توضیحات این مجله",
+                    "publicImage": "http://gsmmag.4api.ir/assets/uploads/11112014/0813d0c2bd132b4db7138c02a38add75548e5ef1.jpg"
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": null,
+                "release_time": 1414940902,
+                "file_size": 324319952
+            }
+        },
+        {
+            "issue": {
+                "id": "16",
+                "title": "جیبی ۶۹",
+                "description": null,
+                "fee": 0,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/d9f06ca19e9887883793ad9b21861c90.jpg",
+                "issuecategory": {
+                    "id": "6",
+                    "title": "جیبی",
+                    "description": "توضیحات این مجله",
+                    "publicImage": "http://gsmmag.4api.ir/assets/uploads/11112014/0813d0c2bd132b4db7138c02a38add75548e5ef1.jpg"
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": null,
+                "release_time": 1414940904,
+                "file_size": 272859721
+            }
+        },
+        {
+            "issue": {
+                "id": "15",
+                "title": "جیبی ۶۸",
+                "description": null,
+                "fee": 0,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/3c8ce3725ae22b8a0e82a494d0eb5374.jpg",
+                "issuecategory": {
+                    "id": "6",
+                    "title": "جیبی",
+                    "description": "توضیحات این مجله",
+                    "publicImage": "http://gsmmag.4api.ir/assets/uploads/11112014/0813d0c2bd132b4db7138c02a38add75548e5ef1.jpg"
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": null,
+                "release_time": 1414940905,
+                "file_size": 312023520
+            }
+        },
+        {
+            "issue": {
+                "id": "14",
+                "title": "دیجیتال ۳۲",
+                "description": null,
+                "fee": 0,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/307567d4e0fa2a3f3d113d87a952fc9d.jpg",
+                "issuecategory": {
+                    "id": "5",
+                    "title": "کالایاب دیجیتال",
+                    "description": null,
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": null,
+                "release_time": 1414940907,
+                "file_size": 130447447
+            }
+        },
+        {
+            "issue": {
+                "id": "13",
+                "title": "دیجیتال ۳۳",
+                "description": null,
+                "fee": 0,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/2b1ac297c9af43970939b69a896c854f.jpg",
+                "issuecategory": {
+                    "id": "5",
+                    "title": "کالایاب دیجیتال",
+                    "description": null,
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": null,
+                "release_time": 1414940908,
+                "file_size": 121576141
+            }
+        },
+        {
+            "issue": {
+                "id": "12",
+                "title": "دیجیتال ۳۱",
+                "description": null,
+                "fee": 0,
+                "discount": 0,
+                "publicCover": "http://gsmmag.4api.ir/assets/thumbs/ea06367fa9e59e5ed897fb4631825d0d.jpg",
+                "issuecategory": {
+                    "id": "5",
+                    "title": "کالایاب دیجیتال",
+                    "description": null,
+                    "publicImage": null
+                },
+                "is_purchased": false,
+                "in_sale": false,
+                "in_counter": false,
+                "publicPreview": null,
+                "sku": null,
+                "release_time": 1414940950,
+                "file_size": 123049102
+            }
+        }
+    ],
+    "message": "issue list generated",
+    "status": "success"
+
+}
